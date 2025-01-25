@@ -1,4 +1,4 @@
-# Extração e organização de dados com Python para o Excel
+# Extração e organização de dados para o Excel com Python
 
 ## Sobre
 Este projeto tem como objetivo automatizar o processo de extração e organização de dados de um arquivo de texto, estruturando as informações de forma a gerar uma planilha Excel. O programa identifica e separa os elementos do texto em quantidade, descrição e valor de cada item para compilar as informações em um formato organizado e as exporta para uma planilha Excel.
