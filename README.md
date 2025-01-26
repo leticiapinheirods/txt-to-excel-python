@@ -13,7 +13,7 @@ Nesse projeto, consegui praticar meus conhecimentos iniciais em Python, utilizan
 
 ## Pré-requisitos
 
-Instalar a biblioteca pandas com a dependência do Excel
+Instalar a biblioteca pandas com a dependência do Excel - necessário ter o Python 3.9 ou superior instalado 
 
 ```bash
 pip install "pandas[excel]"
